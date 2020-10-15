@@ -1,3 +1,4 @@
+#Arquivo criado apenas para unir as bases de dados e criar as funções para futuros plots
 library(tidyverse)
 library(dplyr)
 library(WDI)
