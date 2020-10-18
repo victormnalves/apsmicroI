@@ -6,6 +6,9 @@ library(gridExtra)
 library(xlsx)
 library(ggrepel)
 
+#O CÓDIGO INTEIRO ESTÁ COMENTADO PORQUE NÃO HÁ MAIS NECESSIDADE DE MANIPULAR OS DATASETS GERADOS
+
+
 
 #Importação de dados direto da base de dados do BM.
 #bens_servico_comparativo <- WDI(country = c ('BRA', 'USA', 'ARG', 'CAN','FRA','BOL','ZAF', 'SWE', 'NOR', 'CHL'), 
