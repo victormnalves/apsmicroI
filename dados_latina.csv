@@ -1,0 +1,235 @@
+"","iso2c","País","Gini","Ano","ensbas","ensmed","iso2c.1","country","SI.DST.FRST.10","year","iso2c.2","country.1","SI.DST.10TH.10","year.1"
+"1","AR","Argentina",41.2,2017,NA,NA,"AR","Argentina",1.8,2017,"AR","Argentina",29.7,2017
+"2","AR","Argentina",42,2016,54.7239685058594,NA,"AR","Argentina",1.8,2016,"AR","Argentina",30.3,2016
+"3","AR","Argentina",NA,2015,54.6394691467285,NA,"AR","Argentina",NA,2015,"AR","Argentina",NA,2015
+"4","AR","Argentina",41.7,2014,54.382568359375,NA,"AR","Argentina",1.8,2014,"AR","Argentina",29.9,2014
+"5","AR","Argentina",41,2013,54.9823989868164,NA,"AR","Argentina",1.8,2013,"AR","Argentina",29.4,2013
+"6","AR","Argentina",41.4,2012,53.3169593811035,NA,"AR","Argentina",1.7,2012,"AR","Argentina",29.7,2012
+"7","AR","Argentina",42.7,2011,52.2123908996582,NA,"AR","Argentina",1.7,2011,"AR","Argentina",31,2011
+"8","AR","Argentina",44.5,2010,51.2602386474609,NA,"AR","Argentina",1.3,2010,"AR","Argentina",32,2010
+"9","AR","Argentina",44.1,2009,50.3038787841797,NA,"AR","Argentina",1.3,2009,"AR","Argentina",31.4,2009
+"10","AR","Argentina",45.3,2008,49.582878112793,NA,"AR","Argentina",1.3,2008,"AR","Argentina",32.5,2008
+"11","AR","Argentina",46.6,2007,NA,NA,"AR","Argentina",1.3,2007,"AR","Argentina",33.8,2007
+"12","AR","Argentina",46.7,2006,47.064811706543,NA,"AR","Argentina",1.2,2006,"AR","Argentina",33.8,2006
+"13","AR","Argentina",48,2005,NA,NA,"AR","Argentina",1.2,2005,"AR","Argentina",35,2005
+"14","AR","Argentina",48.6,2004,NA,NA,"AR","Argentina",1.1,2004,"AR","Argentina",35.3,2004
+"15","AR","Argentina",51.2,2003,56.3756790161133,42.1566314697266,"AR","Argentina",1,2003,"AR","Argentina",37.8,2003
+"16","AR","Argentina",53.8,2002,NA,NA,"AR","Argentina",0.9,2002,"AR","Argentina",40.5,2002
+"17","AR","Argentina",53.3,2001,45.8916893005371,34.2933502197266,"AR","Argentina",0.7,2001,"AR","Argentina",39.5,2001
+"18","AR","Argentina",51.1,2000,NA,NA,"AR","Argentina",0.9,2000,"AR","Argentina",37.7,2000
+"19","BO","Bolivia",44,2017,NA,NA,"BO","Bolivia",1.2,2017,"BO","Bolivia",31.7,2017
+"20","BO","Bolivia",44.6,2016,NA,NA,"BO","Bolivia",1.1,2016,"BO","Bolivia",32.1,2016
+"21","BO","Bolivia",46.7,2015,58.8207015991211,42.6314582824707,"BO","Bolivia",1.1,2015,"BO","Bolivia",34.8,2015
+"22","BO","Bolivia",47.8,2014,NA,NA,"BO","Bolivia",1.1,2014,"BO","Bolivia",36,2014
+"23","BO","Bolivia",47.6,2013,NA,NA,"BO","Bolivia",1,2013,"BO","Bolivia",35.2,2013
+"24","BO","Bolivia",46.6,2012,51.923828125,43.1408309936523,"BO","Bolivia",0.9,2012,"BO","Bolivia",33.7,2012
+"25","BO","Bolivia",46.1,2011,NA,NA,"BO","Bolivia",1.1,2011,"BO","Bolivia",33.7,2011
+"26","BO","Bolivia",NA,2010,NA,NA,"BO","Bolivia",NA,2010,"BO","Bolivia",NA,2010
+"27","BO","Bolivia",49.2,2009,46.9324188232422,38.4426002502441,"BO","Bolivia",0.8,2009,"BO","Bolivia",36.9,2009
+"28","BO","Bolivia",50.8,2008,44.6203689575195,36.0851097106934,"BO","Bolivia",0.9,2008,"BO","Bolivia",38.5,2008
+"29","BO","Bolivia",54.5,2007,NA,NA,"BO","Bolivia",0.8,2007,"BO","Bolivia",41.9,2007
+"30","BO","Bolivia",56.7,2006,42.1338195800781,33.4957504272461,"BO","Bolivia",0.6,2006,"BO","Bolivia",43.6,2006
+"31","BO","Bolivia",58.5,2005,NA,NA,"BO","Bolivia",0.5,2005,"BO","Bolivia",45.3,2005
+"32","BO","Bolivia",55,2004,NA,NA,"BO","Bolivia",0.9,2004,"BO","Bolivia",43.9,2004
+"33","BO","Bolivia",NA,2003,NA,NA,"BO","Bolivia",NA,2003,"BO","Bolivia",NA,2003
+"34","BO","Bolivia",59.3,2002,NA,NA,"BO","Bolivia",0.4,2002,"BO","Bolivia",46.6,2002
+"35","BO","Bolivia",57.4,2001,45.1449317932129,38.0085716247559,"BO","Bolivia",0.5,2001,"BO","Bolivia",44.2,2001
+"36","BO","Bolivia",61.6,2000,NA,NA,"BO","Bolivia",0.2,2000,"BO","Bolivia",47.8,2000
+"37","BR","Brazil",53.3,2017,59.1219291687012,46.1742515563965,"BR","Brazil",1,2017,"BR","Brazil",42,2017
+"38","BR","Brazil",53.3,2016,58.2031097412109,45.1083183288574,"BR","Brazil",1.1,2016,"BR","Brazil",42.1,2016
+"39","BR","Brazil",51.9,2015,57.5709915161133,43.7763481140137,"BR","Brazil",1.2,2015,"BR","Brazil",40.9,2015
+"40","BR","Brazil",52.1,2014,56.3307189941406,42.5613784790039,"BR","Brazil",1.2,2014,"BR","Brazil",41.2,2014
+"41","BR","Brazil",52.8,2013,55.8442993164063,41.8536682128906,"BR","Brazil",1.2,2013,"BR","Brazil",41.8,2013
+"42","BR","Brazil",53.5,2012,54.6340217590332,40.6111907958984,"BR","Brazil",1.1,2012,"BR","Brazil",42.6,2012
+"43","BR","Brazil",52.9,2011,53.5981712341309,39.3609809875488,"BR","Brazil",1.1,2011,"BR","Brazil",41.7,2011
+"44","BR","Brazil",NA,2010,50.6151885986328,35.922679901123,"BR","Brazil",NA,2010,"BR","Brazil",NA,2010
+"45","BR","Brazil",53.7,2009,50.0992317199707,37.1068801879883,"BR","Brazil",1,2009,"BR","Brazil",42.2,2009
+"46","BR","Brazil",54,2008,49.5485992431641,35.4544715881348,"BR","Brazil",1,2008,"BR","Brazil",42.5,2008
+"47","BR","Brazil",54.9,2007,47.6079216003418,33.7455711364746,"BR","Brazil",1,2007,"BR","Brazil",43.2,2007
+"48","BR","Brazil",55.6,2006,45.4563293457031,32.4210815429688,"BR","Brazil",1,2006,"BR","Brazil",44.1,2006
+"49","BR","Brazil",56.3,2005,NA,NA,"BR","Brazil",1,2005,"BR","Brazil",44.6,2005
+"50","BR","Brazil",56.5,2004,42.4081993103027,29.4160003662109,"BR","Brazil",0.9,2004,"BR","Brazil",44.5,2004
+"51","BR","Brazil",57.6,2003,NA,NA,"BR","Brazil",0.8,2003,"BR","Brazil",45.4,2003
+"52","BR","Brazil",58.1,2002,NA,NA,"BR","Brazil",0.9,2002,"BR","Brazil",46.1,2002
+"53","BR","Brazil",58.4,2001,NA,NA,"BR","Brazil",0.8,2001,"BR","Brazil",46.1,2001
+"54","BR","Brazil",NA,2000,NA,NA,"BR","Brazil",NA,2000,"BR","Brazil",NA,2000
+"55","CL","Chile",44.4,2017,79.604850769043,59.2311515808105,"CL","Chile",2.3,2017,"CL","Chile",36.3,2017
+"56","CL","Chile",NA,2016,NA,NA,"CL","Chile",NA,2016,"CL","Chile",NA,2016
+"57","CL","Chile",44.4,2015,78.5309906005859,56.9636688232422,"CL","Chile",2.2,2015,"CL","Chile",36.1,2015
+"58","CL","Chile",NA,2014,NA,NA,"CL","Chile",NA,2014,"CL","Chile",NA,2014
+"59","CL","Chile",45.8,2013,76.1649398803711,54.0618705749512,"CL","Chile",2.1,2013,"CL","Chile",37.4,2013
+"60","CL","Chile",NA,2012,NA,NA,"CL","Chile",NA,2012,"CL","Chile",NA,2012
+"61","CL","Chile",46,2011,72.8394470214844,50.8061408996582,"CL","Chile",2.1,2011,"CL","Chile",37.3,2011
+"62","CL","Chile",NA,2010,75.0458374023438,52.8601493835449,"CL","Chile",NA,2010,"CL","Chile",NA,2010
+"63","CL","Chile",47,2009,NA,NA,"CL","Chile",1.9,2009,"CL","Chile",38.2,2009
+"64","CL","Chile",NA,2008,74.4059677124023,51.8613586425781,"CL","Chile",NA,2008,"CL","Chile",NA,2008
+"65","CL","Chile",NA,2007,75.8403015136719,50.5686492919922,"CL","Chile",NA,2007,"CL","Chile",NA,2007
+"66","CL","Chile",47.3,2006,NA,NA,"CL","Chile",1.9,2006,"CL","Chile",37.9,2006
+"67","CL","Chile",NA,2005,NA,NA,"CL","Chile",NA,2005,"CL","Chile",NA,2005
+"68","CL","Chile",NA,2004,76.0035018920898,50.0224189758301,"CL","Chile",NA,2004,"CL","Chile",NA,2004
+"69","CL","Chile",51.5,2003,NA,NA,"CL","Chile",1.4,2003,"CL","Chile",41.4,2003
+"70","CL","Chile",NA,2002,NA,NA,"CL","Chile",NA,2002,"CL","Chile",NA,2002
+"71","CL","Chile",NA,2001,NA,NA,"CL","Chile",NA,2001,"CL","Chile",NA,2001
+"72","CL","Chile",52.8,2000,NA,NA,"CL","Chile",1.3,2000,"CL","Chile",42.6,2000
+"73","CO","Colombia",49.7,2017,NA,NA,"CO","Colombia",1.4,2017,"CO","Colombia",39,2017
+"74","CO","Colombia",50.8,2016,52.0793495178223,47.2685508728027,"CO","Colombia",1.3,2016,"CO","Colombia",40,2016
+"75","CO","Colombia",51.1,2015,50.3342514038086,45.4046592712402,"CO","Colombia",1.3,2015,"CO","Colombia",40,2015
+"76","CO","Colombia",52.7,2014,49.4626617431641,44.59130859375,"CO","Colombia",1.2,2014,"CO","Colombia",41.5,2014
+"77","CO","Colombia",52.8,2013,48.1389389038086,43.2897491455078,"CO","Colombia",1.2,2013,"CO","Colombia",41.5,2013
+"78","CO","Colombia",52.7,2012,46.4073486328125,41.4026298522949,"CO","Colombia",1.2,2012,"CO","Colombia",41.4,2012
+"79","CO","Colombia",53.5,2011,45.3533592224121,40.2652816772461,"CO","Colombia",1.2,2011,"CO","Colombia",42.4,2011
+"80","CO","Colombia",54.7,2010,44.1553382873535,39.1352615356445,"CO","Colombia",1.1,2010,"CO","Colombia",43.5,2010
+"81","CO","Colombia",54.4,2009,42.7785987854004,37.6516304016113,"CO","Colombia",1.1,2009,"CO","Colombia",43,2009
+"82","CO","Colombia",55.5,2008,43.2088317871094,38.061840057373,"CO","Colombia",0.9,2008,"CO","Colombia",43.8,2008
+"83","CO","Colombia",NA,2007,41.9270706176758,36.5191917419434,"CO","Colombia",NA,2007,"CO","Colombia",NA,2007
+"84","CO","Colombia",NA,2006,37.8822288513184,32.2696800231934,"CO","Colombia",NA,2006,"CO","Colombia",NA,2006
+"85","CO","Colombia",53.7,2005,40.987419128418,33.7099494934082,"CO","Colombia",1.2,2005,"CO","Colombia",42.8,2005
+"86","CO","Colombia",54.8,2004,36.3357810974121,34.9496612548828,"CO","Colombia",1.2,2004,"CO","Colombia",44.2,2004
+"87","CO","Colombia",53.4,2003,NA,NA,"CO","Colombia",1.1,2003,"CO","Colombia",42.4,2003
+"88","CO","Colombia",55.8,2002,NA,NA,"CO","Colombia",1,2002,"CO","Colombia",44.8,2002
+"89","CO","Colombia",57.2,2001,NA,NA,"CO","Colombia",0.5,2001,"CO","Colombia",45.8,2001
+"90","CO","Colombia",58.7,2000,NA,NA,"CO","Colombia",0.1,2000,"CO","Colombia",47,2000
+"91","CR","Costa Rica",48.3,2017,NA,NA,"CR","Costa Rica",1.6,2017,"CR","Costa Rica",37,2017
+"92","CR","Costa Rica",48.7,2016,53.1069602966309,38.2961387634277,"CR","Costa Rica",1.5,2016,"CR","Costa Rica",37.3,2016
+"93","CR","Costa Rica",48.4,2015,53.0643005371094,37.9914588928223,"CR","Costa Rica",1.5,2015,"CR","Costa Rica",36.8,2015
+"94","CR","Costa Rica",48.6,2014,54.6673202514648,40.2186393737793,"CR","Costa Rica",1.5,2014,"CR","Costa Rica",36.9,2014
+"95","CR","Costa Rica",49.3,2013,NA,NA,"CR","Costa Rica",1.4,2013,"CR","Costa Rica",37.4,2013
+"96","CR","Costa Rica",48.6,2012,50.8156814575195,37.384651184082,"CR","Costa Rica",1.5,2012,"CR","Costa Rica",37,2012
+"97","CR","Costa Rica",48.7,2011,50.1252593994141,36.5434799194336,"CR","Costa Rica",1.5,2011,"CR","Costa Rica",37,2011
+"98","CR","Costa Rica",48.2,2010,48.9891815185547,35.5017204284668,"CR","Costa Rica",1.6,2010,"CR","Costa Rica",37.1,2010
+"99","CR","Costa Rica",50.6,2009,50.111499786377,36.5469703674316,"CR","Costa Rica",1.3,2009,"CR","Costa Rica",39.4,2009
+"100","CR","Costa Rica",48.7,2008,49.773120880127,35.7305107116699,"CR","Costa Rica",1.5,2008,"CR","Costa Rica",37.7,2008
+"101","CR","Costa Rica",49.3,2007,47.6769599914551,33.4575119018555,"CR","Costa Rica",1.5,2007,"CR","Costa Rica",38.9,2007
+"102","CR","Costa Rica",49.4,2006,NA,NA,"CR","Costa Rica",1.4,2006,"CR","Costa Rica",38.5,2006
+"103","CR","Costa Rica",47.5,2005,NA,NA,"CR","Costa Rica",1.4,2005,"CR","Costa Rica",35.8,2005
+"104","CR","Costa Rica",48.3,2004,NA,NA,"CR","Costa Rica",1.3,2004,"CR","Costa Rica",36.5,2004
+"105","CR","Costa Rica",49.3,2003,NA,NA,"CR","Costa Rica",1.2,2003,"CR","Costa Rica",37,2003
+"106","CR","Costa Rica",51.9,2002,NA,NA,"CR","Costa Rica",1.1,2002,"CR","Costa Rica",40.5,2002
+"107","CR","Costa Rica",51.6,2001,NA,NA,"CR","Costa Rica",1.1,2001,"CR","Costa Rica",39.8,2001
+"108","CR","Costa Rica",47.4,2000,NA,NA,"CR","Costa Rica",1.1,2000,"CR","Costa Rica",35.7,2000
+"109","CU","Cuba",NA,2017,NA,NA,"CU","Cuba",NA,2017,"CU","Cuba",NA,2017
+"110","CU","Cuba",NA,2016,NA,NA,"CU","Cuba",NA,2016,"CU","Cuba",NA,2016
+"111","CU","Cuba",NA,2015,NA,NA,"CU","Cuba",NA,2015,"CU","Cuba",NA,2015
+"112","CU","Cuba",NA,2014,NA,NA,"CU","Cuba",NA,2014,"CU","Cuba",NA,2014
+"113","CU","Cuba",NA,2013,NA,NA,"CU","Cuba",NA,2013,"CU","Cuba",NA,2013
+"114","CU","Cuba",NA,2012,81.1480712890625,57.4055290222168,"CU","Cuba",NA,2012,"CU","Cuba",NA,2012
+"115","CU","Cuba",NA,2011,NA,NA,"CU","Cuba",NA,2011,"CU","Cuba",NA,2011
+"116","CU","Cuba",NA,2010,NA,NA,"CU","Cuba",NA,2010,"CU","Cuba",NA,2010
+"117","CU","Cuba",NA,2009,NA,NA,"CU","Cuba",NA,2009,"CU","Cuba",NA,2009
+"118","CU","Cuba",NA,2008,NA,NA,"CU","Cuba",NA,2008,"CU","Cuba",NA,2008
+"119","CU","Cuba",NA,2007,NA,NA,"CU","Cuba",NA,2007,"CU","Cuba",NA,2007
+"120","CU","Cuba",NA,2006,NA,NA,"CU","Cuba",NA,2006,"CU","Cuba",NA,2006
+"121","CU","Cuba",NA,2005,NA,NA,"CU","Cuba",NA,2005,"CU","Cuba",NA,2005
+"122","CU","Cuba",NA,2004,NA,NA,"CU","Cuba",NA,2004,"CU","Cuba",NA,2004
+"123","CU","Cuba",NA,2003,NA,NA,"CU","Cuba",NA,2003,"CU","Cuba",NA,2003
+"124","CU","Cuba",NA,2002,68.7751007080078,40.3534393310547,"CU","Cuba",NA,2002,"CU","Cuba",NA,2002
+"125","CU","Cuba",NA,2001,NA,NA,"CU","Cuba",NA,2001,"CU","Cuba",NA,2001
+"126","CU","Cuba",NA,2000,NA,NA,"CU","Cuba",NA,2000,"CU","Cuba",NA,2000
+"127","EC","Ecuador",44.7,2017,52.8594703674316,43.5343818664551,"EC","Ecuador",1.6,2017,"EC","Ecuador",33.8,2017
+"128","EC","Ecuador",45,2016,51.8639602661133,42.2995185852051,"EC","Ecuador",1.6,2016,"EC","Ecuador",34.3,2016
+"129","EC","Ecuador",46,2015,52.1816711425781,42.2561302185059,"EC","Ecuador",1.6,2015,"EC","Ecuador",34.9,2015
+"130","EC","Ecuador",45,2014,48.7773017883301,38.5256996154785,"EC","Ecuador",1.7,2014,"EC","Ecuador",34.4,2014
+"131","EC","Ecuador",46.9,2013,47.941520690918,38.6495094299316,"EC","Ecuador",1.6,2013,"EC","Ecuador",35.7,2013
+"132","EC","Ecuador",46.1,2012,46.8274002075195,37.8762588500977,"EC","Ecuador",1.5,2012,"EC","Ecuador",34.6,2012
+"133","EC","Ecuador",45.9,2011,45.3404693603516,35.9011192321777,"EC","Ecuador",1.5,2011,"EC","Ecuador",34.1,2011
+"134","EC","Ecuador",48.7,2010,44.6848182678223,34.9176483154297,"EC","Ecuador",1.4,2010,"EC","Ecuador",37.5,2010
+"135","EC","Ecuador",48.4,2009,43.0367393493652,34.035888671875,"EC","Ecuador",1.4,2009,"EC","Ecuador",37.1,2009
+"136","EC","Ecuador",49.7,2008,43.0487594604492,33.225700378418,"EC","Ecuador",1.3,2008,"EC","Ecuador",38.1,2008
+"137","EC","Ecuador",53.3,2007,43.0781402587891,33.2486381530762,"EC","Ecuador",1.1,2007,"EC","Ecuador",42,2007
+"138","EC","Ecuador",52.2,2006,NA,NA,"EC","Ecuador",1.3,2006,"EC","Ecuador",41.1,2006
+"139","EC","Ecuador",53.1,2005,NA,NA,"EC","Ecuador",1.1,2005,"EC","Ecuador",41.2,2005
+"140","EC","Ecuador",53.9,2004,NA,NA,"EC","Ecuador",1,2004,"EC","Ecuador",42.4,2004
+"141","EC","Ecuador",53.4,2003,NA,NA,"EC","Ecuador",1.1,2003,"EC","Ecuador",41.9,2003
+"142","EC","Ecuador",NA,2002,NA,NA,"EC","Ecuador",NA,2002,"EC","Ecuador",NA,2002
+"143","EC","Ecuador",NA,2001,NA,NA,"EC","Ecuador",NA,2001,"EC","Ecuador",NA,2001
+"144","EC","Ecuador",56.4,2000,NA,NA,"EC","Ecuador",0.9,2000,"EC","Ecuador",45.9,2000
+"145","HN","Honduras",50.5,2017,NA,NA,"HN","Honduras",1.1,2017,"HN","Honduras",37.7,2017
+"146","HN","Honduras",51.1,2016,33.6950607299805,24.6881809234619,"HN","Honduras",1,2016,"HN","Honduras",37.6,2016
+"147","HN","Honduras",49.6,2015,32.4770812988281,22.9173793792725,"HN","Honduras",1.3,2015,"HN","Honduras",37,2015
+"148","HN","Honduras",50.4,2014,32.4401893615723,23.014440536499,"HN","Honduras",1.3,2014,"HN","Honduras",38.1,2014
+"149","HN","Honduras",52.6,2013,NA,NA,"HN","Honduras",1.1,2013,"HN","Honduras",40.2,2013
+"150","HN","Honduras",56.1,2012,27.06077003479,18.5937309265137,"HN","Honduras",0.9,2012,"HN","Honduras",44.1,2012
+"151","HN","Honduras",56.2,2011,27.6482696533203,19.2220497131348,"HN","Honduras",0.8,2011,"HN","Honduras",44.3,2011
+"152","HN","Honduras",53.1,2010,NA,NA,"HN","Honduras",1.1,2010,"HN","Honduras",40.2,2010
+"153","HN","Honduras",51.3,2009,NA,NA,"HN","Honduras",1.1,2009,"HN","Honduras",38.4,2009
+"154","HN","Honduras",55.5,2008,NA,NA,"HN","Honduras",0.9,2008,"HN","Honduras",43,2008
+"155","HN","Honduras",55.8,2007,19.9335193634033,16.1087398529053,"HN","Honduras",0.9,2007,"HN","Honduras",43.1,2007
+"156","HN","Honduras",57.5,2006,NA,NA,"HN","Honduras",0.6,2006,"HN","Honduras",44,2006
+"157","HN","Honduras",59.5,2005,NA,NA,"HN","Honduras",0.5,2005,"HN","Honduras",46.1,2005
+"158","HN","Honduras",58.1,2004,NA,NA,"HN","Honduras",0.7,2004,"HN","Honduras",44.9,2004
+"159","HN","Honduras",58.1,2003,NA,NA,"HN","Honduras",0.7,2003,"HN","Honduras",45.1,2003
+"160","HN","Honduras",55.7,2002,NA,NA,"HN","Honduras",0.8,2002,"HN","Honduras",42.7,2002
+"161","HN","Honduras",55.6,2001,NA,NA,"HN","Honduras",0.8,2001,"HN","Honduras",41.8,2001
+"162","HN","Honduras",NA,2000,NA,NA,"HN","Honduras",NA,2000,"HN","Honduras",NA,2000
+"163","MX","Mexico",NA,2017,61.171070098877,34.1090507507324,"MX","Mexico",NA,2017,"MX","Mexico",NA,2017
+"164","MX","Mexico",46.3,2016,59.7126693725586,33.2946891784668,"MX","Mexico",1.9,2016,"MX","Mexico",36.9,2016
+"165","MX","Mexico",NA,2015,59.538761138916,33.3462181091309,"MX","Mexico",NA,2015,"MX","Mexico",NA,2015
+"166","MX","Mexico",48.7,2014,57.4869689941406,31.7997303009033,"MX","Mexico",1.7,2014,"MX","Mexico",39.5,2014
+"167","MX","Mexico",NA,2013,56.5583801269531,31.6299304962158,"MX","Mexico",NA,2013,"MX","Mexico",NA,2013
+"168","MX","Mexico",48.7,2012,58.0119209289551,33.7975082397461,"MX","Mexico",1.6,2012,"MX","Mexico",38.9,2012
+"169","MX","Mexico",NA,2011,NA,NA,"MX","Mexico",NA,2011,"MX","Mexico",NA,2011
+"170","MX","Mexico",47.2,2010,53.0869216918945,29.2044105529785,"MX","Mexico",1.6,2010,"MX","Mexico",37.1,2010
+"171","MX","Mexico",NA,2009,54.364559173584,31.350269317627,"MX","Mexico",NA,2009,"MX","Mexico",NA,2009
+"172","MX","Mexico",49.9,2008,52.8056488037109,30.3455104827881,"MX","Mexico",1.4,2008,"MX","Mexico",39.1,2008
+"173","MX","Mexico",NA,2007,51.8123016357422,30.2054595947266,"MX","Mexico",NA,2007,"MX","Mexico",NA,2007
+"174","MX","Mexico",48.9,2006,51.797191619873,30.2607498168945,"MX","Mexico",1.6,2006,"MX","Mexico",38.9,2006
+"175","MX","Mexico",50.1,2005,47.6764907836914,25.8786392211914,"MX","Mexico",1.4,2005,"MX","Mexico",39.6,2005
+"176","MX","Mexico",50,2004,47.9557304382324,22.4114398956299,"MX","Mexico",1.5,2004,"MX","Mexico",39.6,2004
+"177","MX","Mexico",NA,2003,NA,NA,"MX","Mexico",NA,2003,"MX","Mexico",NA,2003
+"178","MX","Mexico",50.1,2002,NA,NA,"MX","Mexico",1.5,2002,"MX","Mexico",39.6,2002
+"179","MX","Mexico",NA,2001,NA,NA,"MX","Mexico",NA,2001,"MX","Mexico",NA,2001
+"180","MX","Mexico",52.6,2000,40.4004783630371,18.5773105621338,"MX","Mexico",1.3,2000,"MX","Mexico",42,2000
+"181","PE","Peru",43.3,2017,NA,NA,"PE","Peru",1.7,2017,"PE","Peru",32.3,2017
+"182","PE","Peru",43.6,2016,NA,NA,"PE","Peru",1.6,2016,"PE","Peru",32.6,2016
+"183","PE","Peru",43.4,2015,62.2968788146973,56.0153999328613,"PE","Peru",1.6,2015,"PE","Peru",32.6,2015
+"184","PE","Peru",43.2,2014,61.5784683227539,55.496940612793,"PE","Peru",1.6,2014,"PE","Peru",32.2,2014
+"185","PE","Peru",43.9,2013,61.8961296081543,55.8098411560059,"PE","Peru",1.6,2013,"PE","Peru",32.7,2013
+"186","PE","Peru",44.4,2012,61.1390914916992,55.9918098449707,"PE","Peru",1.5,2012,"PE","Peru",33.3,2012
+"187","PE","Peru",44.7,2011,59.6007690429688,53.5218811035156,"PE","Peru",1.5,2011,"PE","Peru",33.5,2011
+"188","PE","Peru",45.5,2010,59.1773986816406,52.9390411376953,"PE","Peru",1.5,2010,"PE","Peru",34.2,2010
+"189","PE","Peru",47,2009,52.9555511474609,47.0025901794434,"PE","Peru",1.4,2009,"PE","Peru",35.2,2009
+"190","PE","Peru",47.5,2008,52.8875617980957,46.865909576416,"PE","Peru",1.3,2008,"PE","Peru",35.4,2008
+"191","PE","Peru",50,2007,52.6089782714844,46.7049598693848,"PE","Peru",1.2,2007,"PE","Peru",37.8,2007
+"192","PE","Peru",50.3,2006,49.6764907836914,44.0508117675781,"PE","Peru",1.2,2006,"PE","Peru",38.2,2006
+"193","PE","Peru",50.4,2005,50.2212409973145,44.0397796630859,"PE","Peru",1.2,2005,"PE","Peru",38.5,2005
+"194","PE","Peru",49.9,2004,61.678768157959,46.7756118774414,"PE","Peru",1.3,2004,"PE","Peru",37.9,2004
+"195","PE","Peru",53.1,2003,NA,NA,"PE","Peru",1.3,2003,"PE","Peru",42.2,2003
+"196","PE","Peru",53.6,2002,NA,NA,"PE","Peru",1.1,2002,"PE","Peru",42.1,2002
+"197","PE","Peru",51.3,2001,NA,NA,"PE","Peru",1.1,2001,"PE","Peru",39.2,2001
+"198","PE","Peru",49.1,2000,NA,NA,"PE","Peru",1.2,2000,"PE","Peru",36.8,2000
+"199","UY","Uruguay",39.5,2017,56.0314788818359,30.018440246582,"UY","Uruguay",2.3,2017,"UY","Uruguay",29.6,2017
+"200","UY","Uruguay",39.7,2016,54.9455986022949,28.7478008270264,"UY","Uruguay",2.2,2016,"UY","Uruguay",29.6,2016
+"201","UY","Uruguay",40.1,2015,54.103141784668,28.7477607727051,"UY","Uruguay",2.1,2015,"UY","Uruguay",29.8,2015
+"202","UY","Uruguay",40.1,2014,53.3844795227051,28.4531497955322,"UY","Uruguay",2.1,2014,"UY","Uruguay",29.8,2014
+"203","UY","Uruguay",40.4,2013,52.3144111633301,27.5788993835449,"UY","Uruguay",2.1,2013,"UY","Uruguay",30,2013
+"204","UY","Uruguay",39.9,2012,52.4609489440918,27.5437107086182,"UY","Uruguay",2.1,2012,"UY","Uruguay",29.2,2012
+"205","UY","Uruguay",42.1,2011,51.2122192382813,27.0184593200684,"UY","Uruguay",2,2011,"UY","Uruguay",31.6,2011
+"206","UY","Uruguay",44.5,2010,49.4982109069824,27.1735992431641,"UY","Uruguay",2,2010,"UY","Uruguay",33.6,2010
+"207","UY","Uruguay",45.5,2009,49.7586898803711,27.7509708404541,"UY","Uruguay",1.8,2009,"UY","Uruguay",34.5,2009
+"208","UY","Uruguay",45.1,2008,51.1607704162598,26.9772300720215,"UY","Uruguay",1.9,2008,"UY","Uruguay",34.3,2008
+"209","UY","Uruguay",46.4,2007,NA,NA,"UY","Uruguay",1.9,2007,"UY","Uruguay",35.4,2007
+"210","UY","Uruguay",45.9,2006,47.13330078125,24.7390003204346,"UY","Uruguay",1.9,2006,"UY","Uruguay",35,2006
+"211","UY","Uruguay",44.7,2005,NA,NA,"UY","Uruguay",1.8,2005,"UY","Uruguay",33.5,2005
+"212","UY","Uruguay",45.8,2004,NA,NA,"UY","Uruguay",1.8,2004,"UY","Uruguay",34.6,2004
+"213","UY","Uruguay",45,2003,59.2605400085449,34.4547996520996,"UY","Uruguay",2,2003,"UY","Uruguay",34.2,2003
+"214","UY","Uruguay",45.5,2002,NA,NA,"UY","Uruguay",1.8,2002,"UY","Uruguay",34.1,2002
+"215","UY","Uruguay",44.9,2001,NA,NA,"UY","Uruguay",1.8,2001,"UY","Uruguay",33.6,2001
+"216","UY","Uruguay",43,2000,NA,NA,"UY","Uruguay",1.9,2000,"UY","Uruguay",32.3,2000
+"217","VE","Venezuela, RB",NA,2017,NA,NA,"VE","Venezuela, RB",NA,2017,"VE","Venezuela, RB",NA,2017
+"218","VE","Venezuela, RB",NA,2016,74.4302291870117,61.9245986938477,"VE","Venezuela, RB",NA,2016,"VE","Venezuela, RB",NA,2016
+"219","VE","Venezuela, RB",NA,2015,69.5971527099609,55.793270111084,"VE","Venezuela, RB",NA,2015,"VE","Venezuela, RB",NA,2015
+"220","VE","Venezuela, RB",NA,2014,NA,NA,"VE","Venezuela, RB",NA,2014,"VE","Venezuela, RB",NA,2014
+"221","VE","Venezuela, RB",NA,2013,NA,NA,"VE","Venezuela, RB",NA,2013,"VE","Venezuela, RB",NA,2013
+"222","VE","Venezuela, RB",NA,2012,NA,NA,"VE","Venezuela, RB",NA,2012,"VE","Venezuela, RB",NA,2012
+"223","VE","Venezuela, RB",NA,2011,65.3771667480469,NA,"VE","Venezuela, RB",NA,2011,"VE","Venezuela, RB",NA,2011
+"224","VE","Venezuela, RB",NA,2010,NA,NA,"VE","Venezuela, RB",NA,2010,"VE","Venezuela, RB",NA,2010
+"225","VE","Venezuela, RB",NA,2009,53.7572402954102,42.9877090454102,"VE","Venezuela, RB",NA,2009,"VE","Venezuela, RB",NA,2009
+"226","VE","Venezuela, RB",NA,2008,52.628101348877,41.443660736084,"VE","Venezuela, RB",NA,2008,"VE","Venezuela, RB",NA,2008
+"227","VE","Venezuela, RB",NA,2007,50.9389915466309,39.7827415466309,"VE","Venezuela, RB",NA,2007,"VE","Venezuela, RB",NA,2007
+"228","VE","Venezuela, RB",46.9,2006,45.9270706176758,35.0905418395996,"VE","Venezuela, RB",0.5,2006,"VE","Venezuela, RB",34.1,2006
+"229","VE","Venezuela, RB",52.4,2005,NA,NA,"VE","Venezuela, RB",0,2005,"VE","Venezuela, RB",37.8,2005
+"230","VE","Venezuela, RB",49.8,2004,NA,NA,"VE","Venezuela, RB",0.2,2004,"VE","Venezuela, RB",35.7,2004
+"231","VE","Venezuela, RB",50.4,2003,NA,NA,"VE","Venezuela, RB",0.2,2003,"VE","Venezuela, RB",36.1,2003
+"232","VE","Venezuela, RB",50.6,2002,NA,NA,"VE","Venezuela, RB",0.4,2002,"VE","Venezuela, RB",36.9,2002
+"233","VE","Venezuela, RB",48.2,2001,NA,NA,"VE","Venezuela, RB",0.9,2001,"VE","Venezuela, RB",35.7,2001
+"234","VE","Venezuela, RB",NA,2000,NA,NA,"VE","Venezuela, RB",NA,2000,"VE","Venezuela, RB",NA,2000
