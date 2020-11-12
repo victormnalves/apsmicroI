@@ -1,0 +1,24 @@
+Algumas partes do recolhimento de dados, adaptações nos datasets e plots foram realizadas via terminal por motivos práticos. Se interessar para alguém, seguem os indicadores utilizados via API do World Bank
+
+Desigualdade e concentração de renda
+SI.POV.GINI
+SI.DST.FRST.10
+SI.DST.10TH.10
+
+Impostos
+GC.TAX.GSRV.RV.ZS
+GC.TAX.YPKG.RV.ZS
+Taxes on income, profits vs goods and services OECD, IMF: https://www.wider.unu.edu/project/government-revenue-dataset
+% Impostos da receita dos estados (não utilizado): https://dados.gov.br/ e https://www.confaz.fazenda.gov.br/boletim-de-arrecadacao-dos-tributos-estaduais
+
+Gastos com educação
+SE.XPD.PRIM.PC.ZS
+SE.XPD.SECO.PC.ZS
+SE.XPD.TOTL.GB.ZS
+SE.XPD.CTOT.ZS
+
+Educação:
+SE.PRM.CUAT.ZS
+SE.SEC.CUAT.UP.ZS
+SE.SEC.CUAT.LO.ZS
+PISA OECD: https://www.oecd.org/pisa/data/
